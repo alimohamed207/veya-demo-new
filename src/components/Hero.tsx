@@ -68,7 +68,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6 leading-tight"
           >
-            اشتري لابتوب أو إكسسوارات مستعملة{" "}
+            اشتري لابات مستعملة{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-main to-gold-dark">
               بدون خوف من النصب
             </span>

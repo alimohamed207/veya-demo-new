@@ -23,7 +23,7 @@ export const mockProducts: Product[] = [
   {
     id: '1',
     name: 'MacBook Pro M1 2020',
-    price: 3500,
+    price: 48000,
     condition: 'ممتاز',
     images: [
       'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=1000',
@@ -48,7 +48,7 @@ export const mockProducts: Product[] = [
   {
     id: '2',
     name: 'Dell XPS 13 9310',
-    price: 2800,
+    price: 24499,
     condition: 'جيد جداً',
     images: [
       'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=1000'
@@ -72,7 +72,7 @@ export const mockProducts: Product[] = [
   {
     id: '3',
     name: 'Lenovo ThinkPad X1 Carbon',
-    price: 3200,
+    price: 54000,
     condition: 'ممتاز',
     images: [
       'https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=1000'
@@ -119,7 +119,7 @@ export const mockProducts: Product[] = [
   {
     id: '5',
     name: 'Keychron K2 Mechanical Keyboard',
-    price: 300,
+    price: 800,
     condition: 'ممتاز',
     images: [
       'https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=1000'
@@ -143,7 +143,7 @@ export const mockProducts: Product[] = [
   {
     id: '6',
     name: 'LG 27 inch 4K Monitor',
-    price: 900,
+    price: 5500,
     condition: 'جيد جداً',
     images: [
       'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=1000'
